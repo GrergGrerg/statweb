@@ -1,0 +1,6 @@
+3. Het HTML5 Doctype.
+4. SportFocus vzw - Zwemlessen - Sportkampen - Voetbal
+5. UTF-8
+6. Er zijn meerdere errors en warnings.
+7. Het is linkrelatie met een hyperlink naar een afbeelding.
+   Het is het logo vanboven op de webpagina.
