@@ -1,0 +1,26 @@
+body{
+    font-weight: bold;
+}
+
+input{
+    margin: 8px;
+}
+input[type=text] {
+    background-color: green;
+    color: white;
+}
+select{
+    background-color: green;
+    color: white;
+}fieldset{
+    border-color: green;
+    border-radius: 25px;
+    width: 20%;
+}
+input[type=submit]{
+    width: 20%;
+    padding: 10px;
+    background-color: green;
+    border: none;
+    color: white;
+}

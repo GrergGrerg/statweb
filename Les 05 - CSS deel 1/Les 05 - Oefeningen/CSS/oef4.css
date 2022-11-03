@@ -1,0 +1,18 @@
+#customers{
+    border: 1px;
+}
+th{
+    background-color: greenyellow;
+    color: white;
+    text-align: left;
+}
+td{
+    background-color: beige;
+    text-align: center;
+}
+.eerste_rij{
+    width: 50px;
+}
+.active{
+    background-color: orange;
+}

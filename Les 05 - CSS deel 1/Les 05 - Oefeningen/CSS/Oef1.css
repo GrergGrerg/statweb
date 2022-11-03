@@ -1,0 +1,20 @@
+body{
+    background-color: gainsboro;
+
+}
+
+
+h1{
+    background-color: brown;
+    text-align: center;
+    color: white;
+
+}
+h2{
+    background-color:lightskyblue;
+    border-left-style: solid;
+    border-left-width: 6px;
+    border-left-color: blue;
+    
+
+}
