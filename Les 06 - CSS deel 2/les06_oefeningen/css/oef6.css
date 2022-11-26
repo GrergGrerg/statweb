@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+}
+
+header {
+    background-color: lightgray;
+    padding: 25px;
+    text-align: center;
+}
+nav {
+    background-color: black;
+    overflow: hidden;
+}
+nav a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 20px 20px;
+}
+.clearkolom {
+    padding: 15px;
+}
+.clearkolom::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.kolom_zijkant {
+    width: 20%;
+    float: left;
+}
+.kolom_midden {
+    width: 60%;
+    float: left;
+}
+footer {
+    background-color: lightgray;
+    text-align: center;
+    padding: 25px 10px;
+    
+}
+@media screen and (max-width: 600px) {
+    .kolom_midden, .kolom_zijkant{
+        width: 100%;
+    }
+}
